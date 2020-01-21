@@ -1,0 +1,46 @@
+body {
+	background-image: url(../img/city2.jpg);
+}
+
+#a1{
+	background-color: #295882;
+	color: #ffffff;
+	padding: 10#2D5A83px;
+	margin: 10px;
+	border: 3px solid #2D5A83;
+	border-radius: 80px;
+	opacity: 0.7;
+	box-shadow: 5px 5px 10px #2A5983;
+	width: 95%;
+	text-align: center;
+	font-size: 30px;
+}
+#a1:hover{
+	opacity: 1;
+}
+#a2{
+	font-size: 20px;
+}
+#a3{
+	color: #2335FF;
+	font-size: 20px;
+}
+#a4 {
+	color: #233526;
+	font-size: 25px;
+}
+#a5{
+	background-color: #295882;
+	color: #ffffff;
+	padding: 10#2D5A83px;
+	margin: 10px;
+	border: 3px solid #2D5A83;
+	border-radius: 80px;
+	opacity: 0.7;
+	width: 98%;
+	text-align: center;
+	font-size: 18px;
+}
+#a6{
+	color: #FF4023;
+}
